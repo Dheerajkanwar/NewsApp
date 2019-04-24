@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="app_trademark">A DoubtNut Initiative</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="btn_go_online">GO ONLINE</string>
+    <string name="btn_go_offline">GO OFFLINE</string>
+</resources>
