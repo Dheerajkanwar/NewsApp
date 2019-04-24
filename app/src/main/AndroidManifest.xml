@@ -14,7 +14,6 @@
         android:theme="@style/AppTheme">
 
         <activity android:name=".view.SplashActivity"
-            android:exported="false"
             android:configChanges="keyboard|orientation|screenSize"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -23,9 +22,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".view.NewsListActivity" android:exported="false"/>
+        <activity android:name=".view.NewsListActivity"/>
 
-        <activity android:name=".view.NewsDetailActivity" android:exported="false"/>
+        <activity android:name=".view.NewsDetailActivity"/>
 
     </application>
 
